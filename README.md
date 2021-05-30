@@ -124,7 +124,7 @@ Nginx на данный момент является одним из лучши
 smartphone app: swift для ios и java для android
 
 ## 7. Схема проекта
-![](imgs/project_scheme1.png)
+![](imgs/project_scheme2.png)
 
 ## 8. Расчет потребного оборудования.
 
